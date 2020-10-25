@@ -5,7 +5,7 @@
 #include "..\SVisualApp\SVisualApp.h"
 #include "TEdButton.h"
 
-
+//this is GitHub test001
 // CTPlayerButton
 
 IMPLEMENT_DYNAMIC(CTEdButton, CButton)
